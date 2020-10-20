@@ -4,11 +4,11 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Bhagyashree Singh
+    - name : Ashree Singh
       image_webp : images/team/bhagyashree_singh.webp
       image : images/team/bhagyashree_singh.jpg
-      designation : Founder
-      content : First contact Practitioner MSK  
+      designation : Founder / Advanced Practitioner Physiotherapist
+      content : 10 years of post-graduate clinical experience, MSc in clinical biomechanics and musculoskeletal physiotherapy, orthopaedic medicine and a certified first aider. Areas of Interes - Rheumatological conditions, corticosteriod joint injections, analysis and interpretation of blood results, X-rays ad MRI's of various MSK related conditions. 
       social :
         #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
         #  link : ""

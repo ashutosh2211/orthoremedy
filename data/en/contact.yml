@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Please contact us for any musculo skeletal issues
+  content : Please contact us and we will strive to schedule your appointment within 24 hours
 
   # Contact details
   contact_list:
