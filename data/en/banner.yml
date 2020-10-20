@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/banner_image.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Combining passion and knowledge to heal"
-  content : "OrthoMSK Remedy aims to provide the most accurate diagnosis with expert assessment and offers treatment in line with most recent evidence"
+  content : "OrthoMSK Remedy aims to provide the most accurate diagnosis with expert assessment and offers treatment in line with most recent evidence practice"
   button:
     enable : true
     label : "Explore Us"
