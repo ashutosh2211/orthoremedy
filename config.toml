@@ -71,11 +71,11 @@ pre = "#"
 url = "pricing"
 weight = 5
 
-[[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
+#[[menu.main]]
+#name = "blog"
+#pre = "#"
+#url = "blog"
+#weight = 6
 
 [[menu.main]]
 name = "contact"
@@ -83,11 +83,11 @@ pre = "#"
 url = "contact"
 weight = 7
 
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+#[[menu.main]]
+#name = "themefisher"
+#pre = ""
+#url = "https://themefisher.com/"
+#weight = 8
 
 ############################# Default Parameters ##########################
 [params]
@@ -139,9 +139,9 @@ link = "#"
 icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 
 ################################ English Language ########################
@@ -151,13 +151,13 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+#copyright = "Designed by Orthoremedy and Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 2
+#home = "Accueil"
+#copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
