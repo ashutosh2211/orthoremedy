@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://orthoremedy.co.uk"
+baseURL = "http://orthoremedy.co.uk"
 title = "OrthoRemedy"
 theme = "meghna-hugo"
 # post pagination
