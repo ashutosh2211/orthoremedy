@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ashutosh2211.github.io"
+baseURL = "https://orthoremedy.co.uk"
 title = "OrthoRemedy"
 theme = "meghna-hugo"
 # post pagination
