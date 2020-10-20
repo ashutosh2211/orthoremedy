@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Ashree Singh
-      image_webp : images/team/bhagyashree_singh.webp
-      image : images/team/bhagyashree_singh.jpg
+      image_webp : images/team/ashree.webp
+      image : images/team/ashree.jpg
       designation : Founder / Advanced Practitioner Physiotherapist
       content : 10 years of post-graduate clinical experience, MSc in clinical biomechanics and musculoskeletal physiotherapy, orthopaedic medicine and a certified first aider. Areas of Interes - Rheumatological conditions, corticosteriod joint injections, analysis and interpretation of blood results, X-rays ad MRI's of various MSK related conditions. 
       social :
